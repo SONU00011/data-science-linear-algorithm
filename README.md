@@ -1,1 +1,1 @@
-# data-science-linear-regression-
+# data-science-linear-algorithm
